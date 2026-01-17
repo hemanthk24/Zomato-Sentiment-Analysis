@@ -68,15 +68,6 @@ This improves transparency and trust in model decisions.
 - NumPy, joblib, emoji  
 
 ---
-
-## 📦 Run Locally
-
-```bash
-git clone https://github.com/hemanthk24/Zomato-Sentiment-Analysis.git
-cd Zomato-Sentiment-Analysis
-pip install -r requirements.txt
-streamlit run app.py
-
 ## ⚠️ Limitations
 
 - Sarcasm detection is limited  
@@ -94,4 +85,13 @@ streamlit run app.py
 **Hemanth Goud**  
 Aspiring Machine Learning
 Interested in **NLP, Deep Learning, and Explainable AI**
+
+## 📦 Run Locally
+
+```bash
+git clone https://github.com/hemanthk24/Zomato-Sentiment-Analysis.git
+cd Zomato-Sentiment-Analysis
+pip install -r requirements.txt
+streamlit run app.py
+
 
